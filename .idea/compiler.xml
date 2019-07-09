@@ -11,7 +11,9 @@
         <module name="eurekaclitwo" />
         <module name="server-config" />
         <module name="server-config (1)" />
+        <module name="server-config-eurak" />
         <module name="service-config" />
+        <module name="service-config (1)" />
         <module name="service-feign" />
         <module name="service-feign (1)" />
         <module name="service-ribbon" />
